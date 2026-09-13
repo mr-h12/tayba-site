@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 64" width="220" height="64" role="img" aria-label="طيبه للتسويق العقارى">
+  <!-- roof stroke: gold, sits over the wordmark -->
+  <path d="M150 22 L178 6 L206 22" fill="none" stroke="#C9A227" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M178 6 L178 14" stroke="#C9A227" stroke-width="4" stroke-linecap="round"/>
+  <!-- wordmark -->
+  <text x="214" y="44" direction="rtl" text-anchor="start" font-family="Cairo, 'Segoe UI', Tahoma, Arial, sans-serif" font-weight="800" font-size="34" fill="#0B2545">طيبه</text>
+  <text x="214" y="60" direction="rtl" text-anchor="start" font-family="Cairo, 'Segoe UI', Tahoma, Arial, sans-serif" font-weight="600" font-size="11" letter-spacing="1" fill="#C9A227">للتسويق العقارى</text>
+</svg>
